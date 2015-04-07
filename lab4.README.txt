@@ -1,1 +1,4 @@
-name, date, description
+name: Shandeepa Wickramasinghe
+date: 4/7/15
+description: This code doesn't support for chrome but it workes with firefox. 
+I sent an email with the image ,which I used for this lab.
